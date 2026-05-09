@@ -1,6 +1,6 @@
 # Hi, I'm Aleesha Manahil 👋
 
-Data Science student (3rd year) at UET, Peshawar.
+Data Science student at UET, Peshawar.
 6 deployed AI projects on Hugging Face.
 
 ## 🤖 What I Build
